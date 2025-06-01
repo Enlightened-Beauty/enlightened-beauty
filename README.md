@@ -3,7 +3,7 @@
 
 A modern, elegant beauty and wellness website built with Next.js, featuring a clean design and seamless user experience.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/enlightened-beauty&env=DATABASE_URL&envDescription=Database%20connection%20string%20for%20PostgreSQL&envLink=https://github.com/YOUR_USERNAME/enlightened-beauty/blob/main/ENVIRONMENT.md)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/enlightened-beauty/enlightened-beauty&env=DATABASE_URL&envDescription=Database%20connection%20string%20for%20PostgreSQL&envLink=https://github.com/enlightened-beauty/enlightened-beauty/blob/main/ENVIRONMENT.md)
 
 > **Note**: Replace `YOUR_USERNAME` in the deploy button URL above with your actual GitHub username after creating the repository.
 
